@@ -441,3 +441,4 @@ with tab_progress:
                     clear_progress()
                     st.session_state.history = []
                     st.rerun()
+
