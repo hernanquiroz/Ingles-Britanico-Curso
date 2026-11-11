@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+progress.json
+__pycache__/
+*.pyc
